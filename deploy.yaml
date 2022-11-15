@@ -5,6 +5,8 @@ import:
 config:
   repository: 'https://github.com/mikesocorecc/blog-tas-es.git'
   default_timeout: 50000
+  http_user: tasconsu
+  writable_mode: chmod
 
 hosts:
   ssh.cluster015.hosting.ovh.net:

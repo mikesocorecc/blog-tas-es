@@ -1,9 +1,9 @@
 <?php
 namespace Deployer;
 
-// Used to make a writable directory by a server.
-// Used in `chown` and `acl` modes of {{writable_mode}}.
-// Attempts automatically to detect http user in process list.
+// Se usa para hacer un directorio de escritura por un servidor.
+// Utilizado en modos de `chown` y` acl` de {{writable_mode}}.
+// Intentos automáticamente para detectar el usuario de HTTP en la lista de procesos.
 
 set('http_user', function () {
     $candidates = explode("\n", run("ps axo comm,user | grep -E '[a]pache|[h]ttpd|[_]www|[w]ww-data|[n]ginx' | grep -v root | sort | awk '{print \$NF}' | uniq"));
@@ -11,8 +11,8 @@ set('http_user', function () {
 
     if (empty($httpUser)) {
         throw new \RuntimeException(
-            "Can't detect http user name.\n" .
-            "Please setup `http_user` config parameter."
+            "No puedo detectar http user name.\n" .
+            "Por favor configurado `http_user` parámetro de configuración."
         );
     }
 
