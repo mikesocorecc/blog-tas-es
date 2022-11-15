@@ -1,0 +1,16 @@
+import: 
+  - recipe/wordpress.php
+  - contrib/yarn.php
+
+config:
+  repository: 'https://github.com/mikesocorecc/blog-tas-es.git'
+  default_timeout: 50000
+
+hosts:
+  ssh.cluster015.hosting.ovh.net:
+    remote_user: tasconsu
+    host_name: ssh.cluster015.hosting.ovh.net
+    deploy_path: '/home/tasconsu/www/bloges'
+
+after:
+  deploy:failed: deploy:unlock
