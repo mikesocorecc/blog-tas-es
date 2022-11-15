@@ -1,0 +1,60 @@
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/formatting.php","Line":2783}
+
+Nov 14 2022 18:34:11
+{"Number":8,"Message":"unserialize(): Error at offset 150 of 206 bytes","File":"\/var\/www\/blog-tas-es\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-utility.php","Line":64}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Cookie\/Jar.php","Line":63}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Cookie\/Jar.php","Line":73}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Cookie\/Jar.php","Line":89}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Cookie\/Jar.php","Line":102}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Cookie\/Jar.php","Line":111}
+
+Nov 14 2022 18:34:17
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Transport\/cURL.php","Line":345}
+
+Nov 14 2022 18:34:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","Line":40}
+
+Nov 14 2022 18:34:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","Line":51}
+
+Nov 14 2022 18:34:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","Line":68}
+
+Nov 14 2022 18:34:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","Line":82}
+
+Nov 14 2022 18:34:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","Line":91}
+
+Nov 14 2022 18:34:18
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"\/var\/www\/blog-tas-es\/wp-includes\/Requests\/Utility\/CaseInsensitiveDictionary.php","line":91}
+
+Nov 14 2022 18:34:19
+{"type":8192,"message":"Constant FILTER_SANITIZE_STRING is deprecated","file":"\/var\/www\/blog-tas-es\/wp-content\/plugins\/wordpress-seo\/src\/conditionals\/third-party\/elementor-edit-conditional.php","line":28}
+
